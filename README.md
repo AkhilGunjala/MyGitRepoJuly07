@@ -1,0 +1,2 @@
+# MyGitRepoJuly07
+ForDevopsPractice
