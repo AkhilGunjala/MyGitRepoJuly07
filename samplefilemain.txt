@@ -1,2 +1,0 @@
-This is sample file from main
- and added in develop
